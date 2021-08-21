@@ -43,3 +43,7 @@
   background-color: #540d83;
   border-color: #540d83;
 }
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
